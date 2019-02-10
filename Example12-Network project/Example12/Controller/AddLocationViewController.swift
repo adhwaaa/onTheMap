@@ -2,6 +2,9 @@
 import UIKit
 import CoreLocation
 
+// This is on the map project used for udacity nano degree
+
+
 class AddLocationViewController: UIViewController {
     
     @IBOutlet weak var locTextField: UITextField!
